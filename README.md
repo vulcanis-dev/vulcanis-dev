@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vulcanis-dev
-- 👀 I’m interested in .NET Core / .NET 5 and React.
+- 👀 I’m interested in .NET Core / .NET 5 and React. I am also starting to look at android application development in .NET. 
 - 🌱 I’m currently learning more React, I have recently started looking at the react-router library which is very useful.
 -
 
